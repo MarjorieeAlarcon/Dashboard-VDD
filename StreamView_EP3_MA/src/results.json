@@ -1,0 +1,254 @@
+{
+ "n": 32000,
+ "views_M": 1363.771392,
+ "sin_rating": 4572,
+ "rating_med": 6.7,
+ "kpi": {
+  "Todos|Todos": [
+   32000,
+   1363.8,
+   6.7,
+   1.7000329225881312,
+   48.7
+  ],
+  "Todos|Drama": [
+   8669,
+   351.5,
+   6.9,
+   1.2673074,
+   44.3
+  ],
+  "Todos|Comedia": [
+   4678,
+   179.5,
+   6.5,
+   1.8798157999999998,
+   48.8
+  ],
+  "Todos|Acción": [
+   1883,
+   67.6,
+   6.23,
+   1.9256,
+   56.1
+  ],
+  "Todos|Animación": [
+   3111,
+   141.5,
+   7.25,
+   2.1510869125506074,
+   41.2
+  ],
+  "Todos|Documental": [
+   1517,
+   39.1,
+   7.2,
+   3.2770365696465613,
+   41.3
+  ],
+  "Películas|Todos": [
+   16000,
+   326.2,
+   6.4,
+   1.7000329225881312,
+   47.2
+  ],
+  "Películas|Drama": [
+   3634,
+   53.9,
+   6.6,
+   1.2673074,
+   36.1
+  ],
+  "Películas|Comedia": [
+   2352,
+   33.0,
+   6.15,
+   1.8798157999999998,
+   35.6
+  ],
+  "Películas|Acción": [
+   1883,
+   67.6,
+   6.23,
+   1.9256,
+   56.1
+  ],
+  "Películas|Animación": [
+   1117,
+   32.3,
+   7.0,
+   2.1510869125506074,
+   51.0
+  ],
+  "Películas|Documental": [
+   808,
+   8.6,
+   7.11,
+   3.2770365696465613,
+   27.2
+  ],
+  "Series|Todos": [
+   16000,
+   1037.6,
+   7.2,
+   null,
+   43.8
+  ],
+  "Series|Drama": [
+   5035,
+   297.6,
+   7.2,
+   null,
+   39.4
+  ],
+  "Series|Comedia": [
+   2326,
+   146.5,
+   7.1,
+   null,
+   44.4
+  ],
+  "Series|Acción": [
+   0,
+   0.0,
+   null,
+   null,
+   null
+  ],
+  "Series|Animación": [
+   1994,
+   109.2,
+   7.5,
+   null,
+   36.6
+  ],
+  "Series|Documental": [
+   709,
+   30.5,
+   7.51,
+   null,
+   35.6
+  ]
+ },
+ "generos": {
+  "Drama": [
+   27.1,
+   25.8,
+   6.9
+  ],
+  "Comedia": [
+   14.6,
+   13.2,
+   6.5
+  ],
+  "Acción": [
+   5.9,
+   5.0,
+   6.23
+  ],
+  "Animación": [
+   9.7,
+   10.4,
+   7.25
+  ],
+  "Documental": [
+   4.7,
+   2.9,
+   7.2
+  ]
+ },
+ "idiomas_top": {
+  "en": 39.8,
+  "zh": 8.0,
+  "ja": 7.9,
+  "ko": 7.4,
+  "es": 7.0,
+  "fr": 4.7
+ },
+ "paises": [
+  [
+   "EE. UU.",
+   26.1
+  ],
+  [
+   "Reino Unido",
+   4.2
+  ],
+  [
+   "Corea del Sur",
+   6.9
+  ],
+  [
+   "España",
+   2.0
+  ],
+  [
+   "Japón",
+   7.9
+  ],
+  [
+   "India",
+   3.3
+  ],
+  [
+   "Canadá",
+   4.4
+  ],
+  [
+   "Sin país informado",
+   6.3
+  ]
+ ],
+ "paises_top8_real": {
+  "United States of America": 26.1,
+  "Japan": 7.9,
+  "South Korea": 6.9,
+  "China": 6.7,
+  "": 6.3,
+  "Canada": 4.4,
+  "United Kingdom": 4.2,
+  "France": 3.3
+ },
+ "cola": {
+  "mediana": 22063.5,
+  "promedio": 42617.856,
+  "top10": 48.664138351422466,
+  "q1_max": 10472.0,
+  "q": [
+   4.5,
+   9.2,
+   17.7,
+   68.6
+  ]
+ },
+ "pel_con_ingresos": 5645,
+ "roi_med": 1.7000329225881312,
+ "bandas": [
+  0.6,
+  9.4,
+  43.0,
+  25.7,
+  15.2,
+  6.2
+ ],
+ "rev_ge75": 21.3904660497095,
+ "duracion_pel_disponible": 0,
+ "extra": {
+  "spearman_rating_vistas": 0.3230299530883509,
+  "rating_igual_vote_average": true,
+  "alto_pct_titulos": 24.9,
+  "alto_pct_vistas": 35.5,
+  "joyas_n": 1767,
+  "joyas_pct_titulos": 5.5,
+  "joyas_vistas_M": 24.6,
+  "joyas_pct_series": 38.3,
+  "joyas_uplift_M": 14.4,
+  "joyas_uplift_pct": 1.1,
+  "mediana_vistas_serie": 36187.5,
+  "mediana_vistas_pelicula": 10913.5,
+  "rec_pct_titulos": 37.5,
+  "rec_pct_vistas": 36.9,
+  "top10_pct_series": 86.7
+ }
+}

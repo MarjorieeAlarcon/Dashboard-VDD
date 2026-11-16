@@ -1,0 +1,1 @@
+Guarda aquí las fotos de los pósters (jpg o png) y enlázalas en dashboard_streamview.html, bloque const IMG.
